@@ -1,0 +1,8 @@
+# Ne jamais publier : échantillons, collectes brutes, rapports non anonymisés
+AnalysePC_Quarantaine*/
+AnalysePC_Collecte*/
+AnalysePC_Recherche*/
+AnalysePC_*/
+*.zip
+rapport*.html
+rapport*.txt
